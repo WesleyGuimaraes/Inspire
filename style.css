@@ -1,0 +1,77 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 65px;
+    text-align: center;
+}
+span{
+    background-color: white !important;
+}
+.s1{
+    background: url(https://wallpaperaccess.com/full/530366.jpg);
+    background-size: cover;
+}
+.s1 h1{
+    color: white;
+    margin-right: 40%;
+}
+.s2{
+    background: url(https://producerhive.com/wp-content/uploads/2021/01/shure-sm7b-review-2.jpg);
+    background-size: cover;
+}
+.s2 h1{
+    color: white;
+    margin:0 0 15% 40%;
+}
+.s3{
+    background: url(https://wallpaperaccess.com/full/4215922.jpg);
+    background-size: cover;
+}
+.s3 h1{
+    color: white;
+    margin: 15% 15% 0 0;
+}
+.s4{
+    background: url(https://jimrushvoice.com/wp-content/uploads/2017/03/cropped-dark-microphone-wallpaper-3.jpg);
+    background-size: cover;
+}
+.s4 h1{
+    color: white;
+    text-align: left;
+    margin-left: 15%;
+}
+
+@media (max-width: 640px) {
+    .s1{
+        background: url(https://i.pinimg.com/originals/3e/5d/f1/3e5df1a2f3c3558ace3233d7504c2e05.jpg);
+        background-size: cover;
+    }
+    .s1 h1{
+        color: white;
+        margin:0 25% 45% 0;
+    }
+    .s2{
+        background: url(https://www.echoschall.de/fileadmin/user_upload/mikrofone/Tauchspulenmikrofone/Shure-SM7B.jpg);
+        background-size: cover;
+    }
+    .s2 h1{
+        color: white;
+        margin:0 0 80% 30%;
+    }
+    .s3{
+        background: url(https://i.pinimg.com/originals/4e/67/24/4e672400c9229d3b5e5d478ad294917d.jpg);
+        background-size: cover;
+    }
+    .s3 h1{
+        color: white;
+        margin: 0 0 40% 0;
+    }
+    .s4{
+        background: url(https://cutewallpaper.org/27/black-and-white-microphone-wallpaper/2155215842.jpg);
+        background-size: cover;
+    }
+    .s4 h1{
+        color: white;
+        text-align: center;
+        margin: 30% 0 0 0;
+    }   
+}
